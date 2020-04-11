@@ -112,3 +112,7 @@ body {
     border-radius: 4px;
     margin-top: 40px;
 }
+
+.result-none {
+    display: none;
+}
